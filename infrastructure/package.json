@@ -1,0 +1,16 @@
+{
+  "name": "infrastructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BackendStack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@aws-cdk/assert": "^1.23.0",
+    "aws-cdk": "^1.23.0",
+    "aws-sdk": "^2.614.0"
+  }
+}
